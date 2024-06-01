@@ -2,7 +2,7 @@
 
 I befriended Python; now we're brothers.
 
-### Let's expand our connections 😎
+### Let's link!
 [![Linkedin Badge](https://img.shields.io/badge/-raihanfauzan962-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raihanfauzan962/)](https://www.linkedin.com/in/raihanfauzan962/)
 [![Instagram Badge](https://img.shields.io/badge/-_raihanfauzan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_raihanfauzan/)](https://www.instagram.com/_raihanfauzan/)
 
@@ -29,12 +29,3 @@ I befriended Python; now we're brothers.
 
 ### Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanfauzan962&layout=compact)
-
-### Raihan Fauzan's GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanfauzan962&show_icons=true)
-
-### Achievements:
-![Achievements](https://img.shields.io/badge/-Achievements-brightgreen)
-
-### Pinned Repositories:
-- [Dosenku](https://github.com/raihanfauzan962/dosenku)
