@@ -27,5 +27,4 @@ I befriended Python; now we're brothers.
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanfauzan962&layout=compact)
