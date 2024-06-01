@@ -3,8 +3,8 @@
 I befriended Python; now we're brothers.
 
 ### Let's link!
-[![Linkedin Badge](https://img.shields.io/badge/-raihanfauzan962-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raihanfauzan962/)](https://www.linkedin.com/in/raihanfauzan962/)
-[![Instagram Badge](https://img.shields.io/badge/-_raihanfauzan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_raihanfauzan/)](https://www.instagram.com/_raihanfauzan/)
+[![Linkedin Badge](https://img.shields.io/badge/-raihanfauzan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raihanfauzan962/)](https://www.linkedin.com/in/raihanfauzan962/)
+[![Instagram Badge](https://img.shields.io/badge/-raihanfauzan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_raihanfauzan/)](https://www.instagram.com/_raihanfauzan/)
 
 ### Languages and Tools 🛠️
 
