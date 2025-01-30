@@ -1,23 +1,19 @@
-<!-- 🩵 Gradient Header & Animated Wave -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=67E0F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;Python+Whisperer+%F0%9F%90%8D;Code+Alchemist+%E2%9A%99%EF%B8%8F;Cloud+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋;+Welcome+Bruh!;" />
+</h1>
 
-<!-- 🪽 Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-<!-- 🌟 About Me Blurb -->
-### 🚀 **Coding Journey**
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Raihan Fauzan"
-        self.primary_language = "Python"
-        self.spirit_animal = "Digital Chameleon"
-        self.focus = ["Backend Wizardry", "Cloud Architectures", "Automation Magic"]
-        
-    def motto(self):
-        return "Turning caffeine into code since 2020 ☕→🐍"
-
-me = Developer()
-print(me.motto())
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
