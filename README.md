@@ -1,6 +1,5 @@
 <h1 align="center">yo! raihan fauzan here</h1>
 <h3 align="center">a django developer</h3>
-<h4 align="center">drf too, yo!</h4>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -9,6 +8,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
 </p>
+<h4 align="center">drf too, yo!</h4>
 <h4 align="left">etc.</h4>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
