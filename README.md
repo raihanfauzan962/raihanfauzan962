@@ -1,4 +1,4 @@
-<h1 align="center">yo! raihan fauzan here</h1>
+<h1 align="center">yo! rehan ojan here</h1>
 <h3 align="center">a django developer</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -48,5 +48,4 @@
 <h4 align="left">lets connect, yo!</h4>
 <p align="left">
 <a href="https://linkedin.com/in/raihanfauzan962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihanfauzan962" height="30" width="40" /></a>
-<a href="https://instagram.com/_raihanfauzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_raihanfauzan" height="30" width="40" /></a>
 </p>
