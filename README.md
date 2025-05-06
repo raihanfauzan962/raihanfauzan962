@@ -1,4 +1,4 @@
-<h1 align="center">yo! rehan ojan here</h1>
+<h1 align="center">yo!</h1>
 <h3 align="center">a django developer</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
